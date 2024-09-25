@@ -5,7 +5,7 @@
 </picture>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-7a4ixd6ml-purestupids-projects.vercel.app?user=PureStupid&theme=transparent" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-sigma-ecru.vercel.app?user=PureStupid&theme=transparent" alt="GitHub Streak" /></a>
 </div>
 
 ## 👋 Hi there!
