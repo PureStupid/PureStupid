@@ -1,5 +1,5 @@
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-sigma-ecru.vercel.app?user=PureStupid&theme=transparent" alt="GitHub Streak" /></a>
+  <img src="https://github-readme-streak-stats-sigma-ecru.vercel.app?user=PureStupid&theme=transparent" alt="GitHub Streak" /><img src=https://github-readme-stats.vercel.app/api?username=PureStupid&theme=transparent&show_icons=true"&rank_icon=github alt="GitHub Stats" 
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/purestupid/purestupid/output/github-contribution-grid-snake-dark.svg">
@@ -9,7 +9,7 @@
 </div>
 
 ## 👋 Hi there!
-I'm Pure, a student developer in Singapore. My programming interest started from when I was first introduced to the Raspberry Pi and the Arduino, and making some projects with it. Since then, I have been exploring other technologies.
+I'm Pure, a student developer in Singapore. My programming interest started in 2022 when I was first introduced to the Raspberry Pi and the Arduino to create IoT projects. Since then, I have been exploring other technologies.
 
 #### 📋 Programming Languages
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
