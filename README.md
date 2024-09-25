@@ -1,7 +1,7 @@
 ## 👋 Hi there
 I'm Pure, a student developer from Singapore.
 
-## 💻 What I've worked with
+## 💻 I've worked with
 ### 📋 Programming Languages
 ![Python](https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
