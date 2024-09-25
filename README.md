@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://github-readme-streak-stats-sigma-ecru.vercel.app?user=PureStupid&theme=transparent" alt="GitHub Streak" /><img src=https://github-readme-stats.vercel.app/api?username=PureStupid&theme=transparent&show_icons=true"&rank_icon=github alt="GitHub Stats" 
+  <img width="49.7%" height="100%" src="https://github-readme-streak-stats-sigma-ecru.vercel.app?user=PureStupid&theme=transparent&hide_border=true" alt="GitHub Streak" />
+  <img width="49.7%" height="100%" src="https://github-readme-stats.vercel.app/api?username=PureStupid&theme=transparent&show_icons=true&rank_icon=github&hide_border=true" alt="GitHub Stats" 
 
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/purestupid/purestupid/output/github-contribution-grid-snake-dark.svg">
