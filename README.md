@@ -4,6 +4,10 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/purestupid/purestupid/output/github-contribution-grid-snake.svg">
 </picture>
 
+<div align="center">
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-1f61wvle8-purestupids-projects.vercel.app?user=PureStupid&theme=transparent" alt="GitHub Streak" /></a>
+</div>
+
 ## 👋 Hi there!
 I'm Pure, a student developer from Singapore.
 
